@@ -44,7 +44,9 @@ The project is organized into three sheets in Excel:
 
 - Loaded the Excel sheets into Power BI.
 - Created relationships between sheets.
-- Implemented DAX formulas to categorize loudness into five bins.
+- Implemented DAX formulas to:
+   - Calculate Total Tracks, AVG Popularity, AVG Energy
+   - Categorize loudness into five bins.
 - Visualized data using Power BI, emphasizing the distribution of loudness bins.
 - Focused on identifying top EDM artists using track popularity.
 
