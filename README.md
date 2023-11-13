@@ -2,9 +2,13 @@
 
 ## Overview
 
+![Dashboard](dash.png)
+
 This project aims to analyze a dataset of 30,000 Spotify songs, exploring various attributes such as track information, album details, and playlist information. The ultimate goal is to provide insights for EDM (Electronic Dance Music) enthusiasts by identifying the top EDM artists.
 
 ## Dataset
+
+![Dataset](data.png)
 
 The dataset, named `spotify_songs`, contains the following columns:
 
